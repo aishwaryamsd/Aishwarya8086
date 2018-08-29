@@ -1,6 +1,6 @@
 # **_Aishwarya8086_**
 ## **ISQA 8086 repository for Aishwarya Reddy's individual assignments.**
-About License - [**_Link_**](https://github.com/aishwaryamsd/Aishwarya8086/blob/master/LICENSE)
+[**_About License_**](https://github.com/aishwaryamsd/Aishwarya8086/blob/master/LICENSE)
 ### **The assignment topics include,**
 #### - Background Research - [**_Link here_**]()
 #### - Data Entry Analysis - [**_Link here_**]()
