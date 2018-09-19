@@ -34,6 +34,5 @@
   
 > **_Template for Plankton_Data_2018:_**
 
-| Species | CollectionTime | Date | ColonySize | ColonyDiameter |    Temperature      |  Depth   |      Density       | Chlorophyll a |
-|  Name   |    (Am/Pm)     |      |   (Unit)   |    (Unit)      | (Celsius/Farenheit) | (Meters) | (Liter/Milliliter) |               |
-|---------|:---------------|:-----|:-----------|:---------------|:--------------------|:---------|:-------------------|:--------------|
+| SpeciesName | CollectionTime (Am/Pm) | Date | ColonySize (Unit) | ColonyDiameter (Unit) | Temperature (Celsius/Fahrenheit) | Depth (Meters) | Density (Liter/Milliliter) | Chlorophyll a |
+|-------------|:----------------------:|------|:-----------------:|:---------------------:|:--------------------------------:|:--------------:|:--------------------------:|:-------------:|
