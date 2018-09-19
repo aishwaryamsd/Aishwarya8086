@@ -15,7 +15,7 @@
 - There is no information on what column '_z_' means in the '_pond2010_' file. 
 - A description should be given for '_Cuni #/L_' and '_Chippo #/L_'. What does it refer to?
 - The '_zoop-temp-main_' file has a tab named '_Station A_' and the '_zoop-temp_' file has some information on '_Station B_'. Are these two different locations or data for different years? The data used and included should be clarified in every file. 
-- Units for depth, density and temperature should be mentioned for data efficiency. 
+- Units for depth, density, colony size and temperature should be mentioned for data efficiency. 
 
 ### **_Step 2: Suggest a new system for the organization._**
 
@@ -34,5 +34,5 @@
   
 > **_Template for Plankton_Data_2018:_**
 
-| Species | CollectionTime (Am/Pm) | Date | ColonySize (Unit) | Temp (Celsius/Fahrenheit) | Depth (Meters) | Density (Liter/Milliliter) | Chlorophyll a |
-|---------|------------------------|------|-------------------|---------------------------|----------------|----------------------------|---------------|
+| Species | CollectionTime (Am/Pm) | Date | ColonySize (Unit) | Temperature (°C/°F) | Depth (Meters) | Density (Liter/Milliliter) | Chlorophyll a |
+|---------|------------------------|------|-------------------|---------------------|----------------|----------------------------|---------------|
