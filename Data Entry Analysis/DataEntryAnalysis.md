@@ -23,7 +23,7 @@
 
 - The blank yellow spaces or blank data should be eliminated or appropriate data should be given.
 - The meaning of the highlighted data (in a different color) should be explained or not used at all. If more than one color is used then the meaning for each should be mentioned. 
-- The file name should be consistent. This makes it easier to manage and understand. Like, 'Plankton_Data_<year>', where year could vary for all their analysis over the years. For example, 'Plankton_Data_2017', 'Plankton_Data_2018' and so on.
+- The file name should be consistent. This makes it easier to manage and understand. Like, 'Plankton_Data_year', where year could vary for all their analysis over the years. For example, 'Plankton_Data_2017', 'Plankton_Data_2018' and so on.
 - The tab names used should be consistent. 
 - Also, every file should have a tab called 'Reference' where all the column names, color-codes, shortforms, etc. are explained for the user's reference and understanding. 
 - Units for all the numbered data should be mentioned like 'Celcius/Farenheit', 'Meters', 'Liter/Milliliter', etc. 
