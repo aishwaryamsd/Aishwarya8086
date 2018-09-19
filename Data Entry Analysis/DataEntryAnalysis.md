@@ -28,11 +28,11 @@
 - Units for all the numbered data should be mentioned like 'Celcius/Farenheit', 'Meters', 'Liter/Milliliter', etc. 
 - A 'CollectionTime' column is needed to record when the plankton samples were collected. The data can simply be mentioned in 'Am/Pm'. 
 - I have removed the column 'z' and not mentioned a column for station as the information is not clear. If needed a 'Station/Location' column can be added by the organization and the same can be explained in the 'Reference' tab. 
-- Similarly, to simplify the data, I have created a 'SpeciesName' column along with 'ColonySize' and 'ColonyDiameter' for the specified species.
+- Similarly, to simplify the data, I have created a 'SpeciesName' column along with 'ColonySize' for the specified species.
 - Due to lack of information, I have removed the 'Cuni #/L' and 'Chippo #/L' columns.
-- The units for 'ColonySize' and 'ColonyDiameter' are not specified in the data so I have left it blank in my template but the organization can add that as per their unit of measurement. 
+- The unit for 'ColonySize' is not specified in the data so I have left it blank in my template but the organization can add that as per their unit of measurement. 
   
 > **_Template for Plankton_Data_2018:_**
 
-| Species | CollectionTime (Am/Pm) | Date | ColonySize (Unit) | Temperature (Celsius/Fahrenheit) | Depth (Meters) | Density (Liter/Milliliter) | Chlorophyll a |
-|---------|------------------------|------|-------------------|----------------------------------|----------------|----------------------------|---------------|
+| Species | CollectionTime (Am/Pm) | Date | ColonySize (Unit) | Temp (Celsius/Fahrenheit) | Depth (Meters) | Density (Liter/Milliliter) | Chlorophyll a |
+|---------|------------------------|------|-------------------|---------------------------|----------------|----------------------------|---------------|
