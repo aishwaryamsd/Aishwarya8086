@@ -2,7 +2,7 @@
 
 ### **_Step 1: List some problems in the given data._**
 
-> The following problems were identified from the data given in the 3 files. 
+> **_The following problems were identified from the data given in the 3 files._** 
 
 - The name of the files could be something more appropriate and meaningful giving an idea about what the file consists. A consistent format in the naming the file would make it easier to look for the required data when the number of files increase in future. 
 - The files named '_pond2010_' and '_zoop-temp-main_' consist a blank yellow block. There is no further information on it nor any mention of what these yellow spaces stand for. 
@@ -19,7 +19,7 @@
 
 ### **_Step 2: Suggest a new system for the organization._**
 
-> The following suggestions are made for the problems listed above. 
+> **_The following suggestions are made for the problems listed above._** 
 
 - The blank yellow spaces or blank data should be eliminated or appropriate data should be given.
 - The meaning of the highlighted data (in a different color) should be explained or not used at all. If more than one color is used then the meaning for each should be mentioned. 
