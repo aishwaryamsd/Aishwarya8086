@@ -32,8 +32,8 @@
 - Due to lack of information, I have removed the 'Cuni #/L' and 'Chippo #/L' columns.
 - The units for 'ColonySize' and 'ColonyDiameter' are not specified in the data so I have left it blank in my template but the organization can add that as per their unit of measurement. 
   
-#### **_Template for Plankton_Data_2018:_**
+> **_Template for Plankton_Data_2018:_**
 
 | Species | CollectionTime | Date | ColonySize | ColonyDiameter |    Temperature      |  Depth   |      Density       | Chlorophyll a |
 |  Name   |    (Am/Pm)     |      |   (Unit)   |    (Unit)      | (Celsius/Farenheit) | (Meters) | (Liter/Milliliter) |               |
-|---------|----------------|------|------------|----------------|---------------------|----------|--------------------|---------------|
+|---------|:---------------|:-----|:-----------|:---------------|:--------------------|:---------|:-------------------|:--------------|
