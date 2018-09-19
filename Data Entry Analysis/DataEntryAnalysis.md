@@ -4,7 +4,7 @@
 
 > **_The following problems were identified from the data given in the 3 files._** 
 
-- The name of the files could be something more appropriate and meaningful giving an idea about what the file consists. A consistent format in the naming the file would make it easier to look for the required data when the number of files increase in future. 
+- The name of the files could be something more appropriate and meaningful giving an idea about what the file consists. A consistent format in naming the file would make it easier to look for the required data when the number of files increase in future. 
 - The files named '_pond2010_' and '_zoop-temp-main_' consist a blank yellow block. There is no further information on it nor any mention of what these yellow spaces stand for. 
 - Some rows or certain numbered data are highlighted in a different color but again with no information about what it means. 
 - Also, the color used to highlight the data is not consistent. Mostly, it is in '_red_' color but a single number in the '_zoop-temp-main_' file is also highlighted in '_orange_'. Why?
@@ -24,7 +24,8 @@
 - The blank yellow spaces or blank data should be eliminated or appropriate data should be given.
 - The meaning of the highlighted data (in a different color) should be explained or not used at all. If more than one color is used then the meaning for each should be mentioned. 
 - The file name should be consistent. This makes it easier to manage and understand. Like, '_Plankton_Data_<year>_', where year could vary for all their analysis over the years. For example, 'Plankton_Data_2017', 'Plankton_Data_2018' and so on.
-- The tab names used should be consistent. Also every file should have a tab called 'Reference' where all the column names, color-codes, shortforms, etc. are explained for the user's reference and understanding. 
+- The tab names used should be consistent. 
+- Also, every file should have a tab called 'Reference' where all the column names, color-codes, shortforms, etc. are explained for the user's reference and understanding. 
 - Units for all the numbered data should be mentioned like 'Celcius/Farenheit', 'Meters', 'Liter/Milliliter', etc. 
 - A 'CollectionTime' column is needed to record when the plankton samples were collected. The data can simply be mentioned in 'Am/Pm'. 
 - I have removed the column 'z' and not mentioned a column for station as the information is not clear. If needed a 'Station/Location' column can be added by the organization and the same can be explained in the 'Reference' tab. 
