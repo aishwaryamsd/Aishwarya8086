@@ -26,16 +26,16 @@ Wing molt refers to molting or replacement of the flight feathers, wing and tail
 Species trend is nothing but the change in species population over certain periods. eBird is an idea which documents various aspects of bird in the form of checklists and documents. This document includes information like bird distribution, trends, habitat use, abundance, etc. 
 ### Guild trends: 
 Guild refers to grouping of species based on their related categories or species that use similar resources in the same manner.  This helps in determining factors that can affect a group of species due to the same reason or in the same way. Guilds can be categorized into foraging behavior or migratory behavior. 
-Foraging guilds include species with similar foraging behavior with similarities in food habits, foraging patterns and feeding behavior. There can be several classifications for guild trends like, foraging substrate (example: aerial, bark, water, foliage, ground), foraging habitat, diet (example: granivore, frugivore, insectivore), foraging behavior and activity period (example: diurnal, nocturnal). 
-Diet guild category includes exudativore (sap), nectarivore (nectar), granivore (seeds), folivore (non-fruit or seed plant material, flowers, buds), carnivore (animal matter), frugivore (fruit), insectivore (insects), omnivore and scavenger (dead animal matter).
+#### Foraging guilds:
+This includes species with similar foraging behavior with similarities in food habits, foraging patterns and feeding behavior. There can be several classifications for guild trends like, foraging substrate (example: aerial, bark, water, foliage, ground), foraging habitat, diet (example: granivore, frugivore, insectivore), foraging behavior and activity period (example: diurnal, nocturnal). 
+#### Diet guild: 
+This category includes exudativore (sap), nectarivore (nectar), granivore (seeds), folivore (non-fruit or seed plant material, flowers, buds), carnivore (animal matter), frugivore (fruit), insectivore (insects), omnivore and scavenger (dead animal matter).
+#### Migratory guilds:
 In the CCFS data migratory guilds include three categories. 
-
 #### Temperate: 
 A migratory species that predominately winters north of Chiapas, Mexico. Species with an expansive temperate winter distribution which extends into Central America and/or northern South America were considered Temperate migrants (e.g., CEDW). Species with both year-round and migratory populations occurring in the San Francisco Bay and/or greater region were classified as temperate migrants.
-
 #### Neotropical:
 A migratory species that predominately winters south of Oaxaca, MEX on the Yucatan Peninsula, Antilles, Central America, and/or South America. A Neotropical species' winter range may extend north of Oaxaca, but it is generally restricted to areas south of Jalisco and San Luis Potosi, MEX, and more approximately more than half of their winter range is within the Neotropics. 
-
 #### Resident:
 A species that predominately occurs year-round in the San Francisco Bay and/or greater region. Species that resident in the region but are seasonally or irregularly present at CCFS whether within or outside of any of their respective migration periods. Wintering species that also have transient populations occurring at CCFS and/or the greater region were considered resident if the proportion of transients was small and/or the number of wintering individuals was substantial. 
 ## Conclusion: 
