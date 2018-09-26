@@ -1,10 +1,10 @@
 ## **_Aishwarya8086_**
-### **Background Research**
+## **Background Research**
 
-### **Coyote Creek Field Station Study Organism or Phenomenon**
+## **Coyote Creek Field Station Study Organism or Phenomenon**
 
 The dataset for team DataKnights is of the Coyote Creek Field Station (CCFS). The San Francisco Bay Bird Observatory is a non-profit bird conservation organization that currently operates the Coyote Creek Field Station (CCFS). The Coyote Creek Field Station is a banding station that operates year-round and was established in 1982. CCFS focuses on the various species of birds and make observations on the patterns of bird population, migration, breeding, wintering, etc. There are various aspects of bird banding research and this background research will give you an overview of some species that we will be working on for our further analysis. 
-## What is bird banding?
+### What is bird banding?
 Bird banding is a technique used to identify various species of birds and keep a track of them. Bird banding helps in the study of birds and it is regulated by the U.S. federal government. Scientists put a colored band on the birds’ legs which represents a unique number. This helps to identify the bird and maintain a record of each. Colored bands also help them to differentiate the bird without catching them again. These bands are light-weight and cost efficient. 
 ## How is bird banding done?
 Birds are captured using fine threaded mist-nets which are mainly used to catch small birds. Once they are caught, researchers record data of each bird. Information like its species, gender, age, fat, weight, feather wear, wing length, etc. is recorded. These birds are then banded and released. These banded birds are studied again when recaptured, to determine the distance they migrated, their life, their breeding habits and so on. 
