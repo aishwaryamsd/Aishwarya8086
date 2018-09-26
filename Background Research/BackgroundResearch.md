@@ -1,5 +1,4 @@
-## **_Aishwarya8086_**
-## **Background Research**
+# **Background Research**
 
 ## **Coyote Creek Field Station Study Organism or Phenomenon**
 
