@@ -1,6 +1,6 @@
 # **Background Research**
 
-## **Coyote Creek Field Station Study Organism or Phenomenon**
+## **_Coyote Creek Field Station Study Organism or Phenomenon_**
 
 The dataset for team DataKnights is of the Coyote Creek Field Station (CCFS). The San Francisco Bay Bird Observatory is a non-profit bird conservation organization that currently operates the Coyote Creek Field Station (CCFS). The Coyote Creek Field Station is a banding station that operates year-round and was established in 1982. CCFS focuses on the various species of birds and make observations on the patterns of bird population, migration, breeding, wintering, etc. There are various aspects of bird banding research and this background research will give you an overview of some species that we will be working on for our further analysis. 
 ### What is bird banding?
